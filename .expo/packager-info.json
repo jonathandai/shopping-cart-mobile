@@ -1,0 +1,9 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 33950,
+  "expoServerNgrokUrl": "https://qa-ppc.jonathandai.shopping-cart-mobile.exp.direct",
+  "packagerNgrokUrl": "https://packager.qa-ppc.jonathandai.shopping-cart-mobile.exp.direct",
+  "ngrokPid": 33964,
+  "devToolsPort": 19002
+}

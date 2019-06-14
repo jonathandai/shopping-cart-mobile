@@ -1,0 +1,58 @@
+[
+    {
+        "name": "KD 6 AUNT PEARL",
+         "url": "https://www.flightclub.com/media/catalog/product/cache/1/image/1600x1140/9df78eab33525d08d6e5fb8d27136e95/n/i/nike-kd-6-gs-aunt-pearl-lt-artic-pink-pht-bl-vvd-pnk-042084_1.png",
+         "style":"NIKE", 
+         "price":320,
+         "sku": 51498472915966370,
+         "size": [8,9,12]        
+    },
+   
+    {
+        "name": "AIR PRESTO MID",
+         "url": "https://www.flightclub.com/media/catalog/product/cache/1/image/1600x1140/9df78eab33525d08d6e5fb8d27136e95/0/5/053066_1.jpg",
+         "style":"NIKE", 
+         "price":1430,
+         "sku": 10686354557628304,
+         "size": [8,9,10,11]
+    },
+
+    {
+        "name": "JORDAN 1 RETRO",
+         "url": "https://www.flightclub.com/media/catalog/product/cache/1/image/1600x1140/9df78eab33525d08d6e5fb8d27136e95/8/0/804093_01.jpg",
+         "style":"NIKE", 
+         "price":1265,
+         "sku": 11033926921508488,
+         "size": [8,9,10,12]
+    },
+
+    {
+        "name": "PW SOLAR HU NMD",
+         "url": "https://www.flightclub.com/media/catalog/product/cache/1/image/1600x1140/9df78eab33525d08d6e5fb8d27136e95/8/0/805266_02.jpg",
+         "style":"ADIDAS", 
+         "price":245,
+         "sku": 12064273040195392,
+         "size": [10,11,12]
+     },
+
+    {
+        "name": "ERA 95 DX (F.O.G)",
+         "url": "https://www.flightclub.com/media/catalog/product/cache/1/image/1600x1140/9df78eab33525d08d6e5fb8d27136e95/8/0/802695_01.jpg",
+         "style":"VANS", 
+         "price":1400,
+         "sku": 39876704341265610,
+         "size": [8,10,11,12]
+    },
+
+    {
+        "name": "FLYKNIT RACER",
+         "url": "https://www.flightclub.com/media/catalog/product/cache/1/image/1600x1140/9df78eab33525d08d6e5fb8d27136e95/8/0/801190_1.jpg",
+         "style":"NIKE", 
+         "price":360,
+         "sku": 10412368723880252,
+         "size": [8,11]
+    }
+
+  ]
+  
+  
